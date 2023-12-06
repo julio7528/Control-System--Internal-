@@ -1,8 +1,9 @@
 Virtual Environment Manager
-Overview
+
+Overview:
 This Python script provides a convenient way to manage virtual environments for your projects. It includes functionality for creating, activating, deleting virtual environments, listing existing environments, generating requirements files, creating a .gitignore file, and setting up a standard development structure for your projects.
 
-Features
+Features:
 Create Virtual Environment: Easily set up a virtual environment for your project using the python -m venv command.
 
 Activate Virtual Environment: Activate the virtual environment with a simple command, providing a seamless development experience.
@@ -23,10 +24,10 @@ Follow Instructions:
 
 Follow on-screen instructions to create, activate, or delete virtual environments.
 Generate requirements files, set up a .gitignore, or create a standard development structure.
-Dependencies
+Dependencies:
 Python 3.x
 colorama library (install using pip install colorama)
-Notes
+Notes:
 Make sure to have Python installed and available in your system's PATH.
 The script uses the python -m venv command, so ensure that the Python executable is accessible.
 Feel free to customize the script to suit your specific project requirements. If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
