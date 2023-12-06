@@ -17,20 +17,7 @@ Create .Gitignore File: Fetch and save a Python-specific .gitignore file from Gi
 
 Create Development Structure: Prompt for a project name and automatically create a standardized development structure, including main and submodule directories, testing, documentation, data, logs, notebooks, scripts, and more.
 
-Usage
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-Run the Script:
-
-bash
-Copy code
-python virtual_environment_manager.py
 Select Options:
-
 Choose from the menu options to perform various virtual environment management tasks.
 Follow Instructions:
 
